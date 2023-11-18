@@ -1,7 +1,7 @@
 # HWR-Analysis
 Project Name: Effectiveness of Clickbait Headlines in Meta Platforms Advertising within the Skill Game Industry
 
-Description: This project aims to analyse the data of the collected results of the survey for the master thesis of the marketing management program of HWR by Michael Zats and the dataset taken from Kaggle and accessed.
+Description: This project aims to analyse the data of the collected results of the survey for the master thesis of the marketing management program of HWR by Michael Zats and the dataset taken from Kaggle and accessed Here: https://www.kaggle.com/datasets/thelazyaz/youtube-clickbait-classification/data?select=clickbait.csv.
 
 Prerequriments 
 Python 3
