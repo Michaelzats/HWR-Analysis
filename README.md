@@ -11,7 +11,10 @@ Installation steps:
 Clone the repository from Google Colab. ([https://colab.research.google.com/drive/1j-RytXdZDXCAWKHlaQdFWmRo64SJt_3Y?usp=sharing](https://colab.research.google.com/drive/1gMatwGtGykAlwQLDOYgm_QhaLy-WYP4e?usp=sharing)) In Colab click File --> Save a copy in Colab.
 <img width="266" alt="Screenshot 2023-11-18 at 13 52 49" src="https://github.com/Michaelzats/HWR-Analysis/assets/92814061/fdd813d8-249c-441c-9ceb-874db7e565bd">
 
-Install necessary Python libraries using !pip install ( #Pandas:
+Install necessary Python libraries using !pip install 
+
+
+#Pandas:
 !pip install pandas
 
 #SciPy (also covers stats and other statistical functions):
@@ -38,8 +41,19 @@ Install necessary Python libraries using !pip install ( #Pandas:
 !pip install tabulate
 
 
+#NLTK (Natural Language Toolkit, includes ngrams):
+!pip install nltk
+
+
+
 #Matplotlib Ticker (part of Matplotlib, no separate installation needed).
- )
+
+#Collections and re:
+
+#The collections module is a built-in Python module, so you don't need to install it separately. It comes pre-installed with Python.
+
+#Similarly, the re module for regular expressions is also a built-in Python module and does not require separate installation.
+
 
 
 Usage: Basic examples:
